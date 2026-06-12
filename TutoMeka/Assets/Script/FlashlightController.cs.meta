@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b06d4e4ce6cd50f4d8ed1b55db1d0626
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - flashButtonImage: {instanceID: 0}
+  - flashOffSprite: {fileID: 21300000, guid: c38382cd94160024c89d4eaaa5cc8b61, type: 3}
+  - flashOnSprite: {fileID: 21300000, guid: 3a44d041c731ec342a429b52aa5d5031, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
